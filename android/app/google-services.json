@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "805060795899",
+    "project_id": "airbnb-app-d35b5",
+    "storage_bucket": "airbnb-app-d35b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805060795899:android:5d6a5ecee69d5066717f5e",
+        "android_client_info": {
+          "package_name": "com.example.airbnb_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Bii-2qoCs4AjqCiORNRgpruUgd-fYNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
