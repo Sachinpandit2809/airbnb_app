@@ -39,6 +39,20 @@ class _LoginScreenState extends State<LoginScreen> {
               padding: const EdgeInsets.all(8.0),
               child: phoneNumberWidget(size: size),
             ),
+            10.heightBox,
+            RichText(
+                text: TextSpan(
+                    text:
+                        "we will call or text you to conferm your number. Standard message and data rates apply.",
+                    style: KTextStyle.k_14,
+                    children: [
+                  TextSpan(
+                    text: "Privacy Policy",
+                    style: KTextStyle.k_14.copyWith(
+                        fontWeight: FontWeight.bold,
+                        decoration: TextDecoration.underline),
+                  )
+                ])),
           ],
         )),
       ),
